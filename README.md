@@ -15,7 +15,7 @@ Se, Senão Se e Senão Switch-Case Estrutura de Repeticao Para (For) Estrutura d
 - Lógica de Programação
 
 ### Status do Projeto:
-10%, ainda em face de construção, aguarde!
+50% concluido, ainda falta um pouco, favor aguardar!
 
 ### Autor: Professor Marcos Monteiro
 Projeto desenvolvido por [Marcos Franco](https://www.linkedin.com/in/marcosfranco-5b1a8a111/)
