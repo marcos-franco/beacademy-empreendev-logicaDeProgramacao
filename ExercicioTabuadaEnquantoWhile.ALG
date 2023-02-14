@@ -1,8 +1,8 @@
 Algoritmo "ExercicioTabuadaEnquantoWhile"
 // Disciplina:[Lógica de Programação]
 // Professor : Marcos Monteiro
-// Descrição : Crie um programa que imprima a tabuada de um numero
-//digitado pelo usuario
+// Descrição : Crie um programa que imprima a tabuada de um número
+// Descrição : digitado pelo usuário
 // Autor(a)  : Nome do(a) Marcos Franco
 // Data atual: 10/02/2023
 
